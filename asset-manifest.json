@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/map-ip-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/map-ip-app/static/js/main.65ecfec9.chunk.js",
+    "main.js.map": "/map-ip-app/static/js/main.65ecfec9.chunk.js.map",
+    "runtime-main.js": "/map-ip-app/static/js/runtime-main.b622f370.js",
+    "runtime-main.js.map": "/map-ip-app/static/js/runtime-main.b622f370.js.map",
+    "static/css/2.c1e28d34.chunk.css": "/map-ip-app/static/css/2.c1e28d34.chunk.css",
+    "static/js/2.a461fee7.chunk.js": "/map-ip-app/static/js/2.a461fee7.chunk.js",
+    "static/js/2.a461fee7.chunk.js.map": "/map-ip-app/static/js/2.a461fee7.chunk.js.map",
+    "static/js/3.da646fec.chunk.js": "/map-ip-app/static/js/3.da646fec.chunk.js",
+    "static/js/3.da646fec.chunk.js.map": "/map-ip-app/static/js/3.da646fec.chunk.js.map",
+    "index.html": "/map-ip-app/index.html",
+    "static/css/2.c1e28d34.chunk.css.map": "/map-ip-app/static/css/2.c1e28d34.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/map-ip-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a461fee7.chunk.js.LICENSE.txt": "/map-ip-app/static/js/2.a461fee7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b622f370.js",
+    "static/css/2.c1e28d34.chunk.css",
+    "static/js/2.a461fee7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.65ecfec9.chunk.js"
+  ]
+}
