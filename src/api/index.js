@@ -2,10 +2,13 @@ import axios from 'axios';
 
 function request(method, endpoint, data = null){
 
+    const helperUrl = 'https://cors-anywhere.herokuapp.com/';
+
     return axios({
         method,
-        url: `${process.env.REACT_APP_URL}${endpoint}${'?access_key='}${process.env.REACT_APP_KEY}`,
-        data
+        url: `${helperUrl}${process.env.REACT_APP_URL}${endpoint}${'?access_key='}${process.env.REACT_APP_KEY}`,
+        data,
+        headers: {'Access-Control-Allow-Headers': 'Origin'}
     });
 }
 
